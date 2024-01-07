@@ -1,0 +1,11 @@
+.contact-card-container {
+  background-color: antiquewhite;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.contact-bg {
+  display: flex;
+  justify-content: center;
+}

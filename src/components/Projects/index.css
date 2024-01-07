@@ -1,0 +1,7 @@
+.projects-bg {
+  height: 85vh;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
